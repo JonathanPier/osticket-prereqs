@@ -47,8 +47,7 @@ osTicket is an open-source customer support and help-desk ticketing system that 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+A PHP manager is a software tool or administrative interface that helps system administrators, developers, and hosting providers install, configure, manage, and monitor PHP on a computer or web server. PHP is a server-side programming language commonly used to create dynamic websites and web applications. Because PHP has many configuration options and can have multiple versions installed on the same server, managing PHP manually can sometimes become complicated. A PHP manager simplifies these tasks by providing a centralized way to control PHP versions, settings, extensions, and other PHP-related features.</p>
 <br />
 
 <p>
