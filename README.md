@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install PHP Manager for IIS
 - Install VC redist.x86.exe
 - Install MySQL 
-- Assign Permission: ost-config.php
+- Registering PHP Manager with IIS 
 - Install HeidiSQL
 
 <h2>OsTicket</h2>
