@@ -53,7 +53,7 @@ A PHP manager is a software tool or administrative interface that helps system a
 
 <h2>Install VC redist.x86.exe</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="431" height="555" alt="image" src="https://github.com/user-attachments/assets/f19acd7e-c7df-47a5-8fa3-32ab15810b4a" />
 </p>
 <p>
 The file VC_redist.x86.exe is an installer for the Microsoft Visual C++ Redistributable for 32-bit (x86) applications. The x86 designation is important because it refers to the architecture of the application that needs the runtime, not necessarily the architecture of the Windows operating system. A 64-bit version of Windows can run 32-bit applications through its compatibility system. Therefore, a 64-bit Windows computer can still require the x86 Visual C++ Redistributable if the PHP installation or another application is a 32-bit application.
