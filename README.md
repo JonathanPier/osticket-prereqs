@@ -69,3 +69,18 @@ The reason this matters when installing PHP is that PHP itself, or one of its co
 <p>
 When installing osTicket, one of the most important components that must be installed and configured is a database management system such as MySQL or MariaDB. MySQL is needed because osTicket is a database-driven web application. Although PHP is responsible for executing the osTicket application, PHP by itself is not designed to permanently store and organize all of the information that a help-desk system needs. MySQL provides the database environment where osTicket can store, retrieve, update, and manage its information. Without a functioning database, osTicket cannot properly operate as a ticket-management system</p>
 <br />
+
+
+<h2>Registering PHP Manager with IIS</h2>
+<p>
+<img width="629" height="610" alt="image" src="https://github.com/user-attachments/assets/b377d7c5-316d-4fd7-b7f7-2bec17f2e31b" />
+</p>
+<p>
+When installing a PHP-based application such as osTicket on a Windows server, several different software components must work together. One of the most important components is IIS, or Internet Information Services, which is Microsoft's web server platform for Windows. PHP is the programming environment used to execute PHP applications, while IIS is responsible for receiving web requests from users and delivering websites to their browsers. PHP Manager for IIS provides a convenient way to configure and manage PHP within the IIS environment. Registering PHP Manager with IIS is important because it allows IIS and PHP to be properly configured to work together and gives administrators a practical interface for managing PHP installations.
+
+
+<h2>Install HeidiSQL</h2>
+<p>
+
+</p>
+<p>
