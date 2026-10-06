@@ -32,6 +32,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>OsTicket</h2>h2>
 
 <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 osTicket is an open-source customer support and help-desk ticketing system that allows organizations to manage customer questions, technical support requests, incidents, and service issues in one centralized location. Instead of handling support requests entirely through email or phone calls, an organization can use osTicket to create, organize, assign, track, and resolve support tickets. Installing osTicket requires a web server, PHP, and a MySQL-compatible database such as MariaDB or MySQL. 
 
 
