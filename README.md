@@ -22,6 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- What is an OsTicket ? 
 - Install PHP Manager for IIS
 - Install VC redist.x86.exe
 - Install MySQL 
