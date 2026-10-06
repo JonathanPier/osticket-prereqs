@@ -83,3 +83,13 @@ When installing a PHP-based application such as osTicket on a Windows server, se
 </p>
 <p>
 When installing osTicket on a web server, one of the most important steps is uploading the osTicket application files to the server. This step is necessary because osTicket is a web-based application made up of many files containing the program's code, configuration files, images, stylesheets, JavaScript files, and other resources required for the help-desk system to operate. Installing PHP, IIS, and MySQL creates the environment that osTicket needs to run, but these components do not contain osTicket itself. The osTicket files must therefore be placed on the web server so that IIS and PHP can access and execute them.
+
+
+<h2>Install HeidiSQL</h2>
+<p>
+<img width="967" height="426" alt="image" src="https://github.com/user-attachments/assets/526ad39e-ec22-47a8-a1a4-75a9771a1d01" />
+<p>
+<p>
+When installing and configuring osTicket, administrators often use a database management program such as HeidiSQL. HeidiSQL is a graphical database-management tool that can connect to database servers such as MySQL and MariaDB. It is important to understand, however, that HeidiSQL is not required for osTicket itself to run. osTicket requires a supported database server, such as MySQL or MariaDB, but HeidiSQL is an optional tool that makes it much easier for an administrator to create, view, configure, troubleshoot, and manage the database used by osTicket.
+
+This distinction is important because people sometimes confuse HeidiSQL with MySQL. They are not the same thing. MySQL is the actual database server that stores osTicket's information. HeidiSQL is a graphical interface that allows an administrator to connect to that database server and work with the data without having to perform every database operation through a command-line interface.
