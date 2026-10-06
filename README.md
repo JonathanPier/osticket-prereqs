@@ -26,7 +26,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install PHP Manager for IIS
 - Install VC redist.x86.exe
 - Install MySQL 
-- Registering PHP Manager with IIS 
+- Registering PHP Manager with IIS
+- Install OsTicket
 - Install HeidiSQL
 
 <h2>OsTicket</h2>
@@ -79,8 +80,9 @@ When installing osTicket, one of the most important components that must be inst
 When installing a PHP-based application such as osTicket on a Windows server, several different software components must work together. One of the most important components is IIS, or Internet Information Services, which is Microsoft's web server platform for Windows. PHP is the programming environment used to execute PHP applications, while IIS is responsible for receiving web requests from users and delivering websites to their browsers. PHP Manager for IIS provides a convenient way to configure and manage PHP within the IIS environment. Registering PHP Manager with IIS is important because it allows IIS and PHP to be properly configured to work together and gives administrators a practical interface for managing PHP installations.
 
 
-<h2>Install HeidiSQL</h2>
+<h2>- Install OsTicket</h2>
 <p>
-
+<img width="1083" height="573" alt="image" src="https://github.com/user-attachments/assets/96520b49-f9d8-4426-ae3b-c16c61a5e453" />
 </p>
 <p>
+When installing osTicket on a web server, one of the most important steps is uploading the osTicket application files to the server. This step is necessary because osTicket is a web-based application made up of many files containing the program's code, configuration files, images, stylesheets, JavaScript files, and other resources required for the help-desk system to operate. Installing PHP, IIS, and MySQL creates the environment that osTicket needs to run, but these components do not contain osTicket itself. The osTicket files must therefore be placed on the web server so that IIS and PHP can access and execute them.
