@@ -32,7 +32,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>OsTicket</h2>
 
 <p>
-  <img width="508" height="324" alt="image" src="https://github.com/user-attachments/assets/a942fc53-56c4-418a-8c88-a6e377d24679" />
+<img width="508" height="324" alt="image" src="https://github.com/user-attachments/assets/a942fc53-56c4-418a-8c88-a6e377d24679" />
+<img width="573" height="260" alt="image" src="https://github.com/user-attachments/assets/d3f5866d-ffd2-4a07-885f-5a849592d5b7" />
 
 </p>
 <p>
