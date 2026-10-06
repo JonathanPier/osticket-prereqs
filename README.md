@@ -50,12 +50,15 @@ osTicket is an open-source customer support and help-desk ticketing system that 
 A PHP manager is a software tool or administrative interface that helps system administrators, developers, and hosting providers install, configure, manage, and monitor PHP on a computer or web server. PHP is a server-side programming language commonly used to create dynamic websites and web applications. Because PHP has many configuration options and can have multiple versions installed on the same server, managing PHP manually can sometimes become complicated. A PHP manager simplifies these tasks by providing a centralized way to control PHP versions, settings, extensions, and other PHP-related features.</p>
 <br />
 
+
+<h2>Install VC redist.x86.exe</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+The file VC_redist.x86.exe is an installer for the Microsoft Visual C++ Redistributable for 32-bit (x86) applications. The x86 designation is important because it refers to the architecture of the application that needs the runtime, not necessarily the architecture of the Windows operating system. A 64-bit version of Windows can run 32-bit applications through its compatibility system. Therefore, a 64-bit Windows computer can still require the x86 Visual C++ Redistributable if the PHP installation or another application is a 32-bit application.
+
+The reason this matters when installing PHP is that PHP itself, or one of its components, may depend on particular Visual C++ runtime libraries. If the appropriate runtime is not available, Windows may be unable to start PHP or load one of its DLL files. Instead of PHP working normally, the administrator may receive an error indicating that a DLL is missing, that the application cannot start, or that a required runtime component could not be found.</p>
 <br />
 
 <p>
