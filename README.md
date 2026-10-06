@@ -41,6 +41,7 @@ osTicket is an open-source customer support and help-desk ticketing system that 
 
 
 <h2>Installation Steps</h2>
+<h2>Install PHP Manager for IIS</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
