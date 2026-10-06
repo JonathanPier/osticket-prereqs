@@ -64,9 +64,8 @@ The reason this matters when installing PHP is that PHP itself, or one of its co
 
 <h2>Install MySQL </h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="593" height="400" alt="image" src="https://github.com/user-attachments/assets/731a48d6-7bb0-4f12-8c18-0c14fd9290db" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+When installing osTicket, one of the most important components that must be installed and configured is a database management system such as MySQL or MariaDB. MySQL is needed because osTicket is a database-driven web application. Although PHP is responsible for executing the osTicket application, PHP by itself is not designed to permanently store and organize all of the information that a help-desk system needs. MySQL provides the database environment where osTicket can store, retrieve, update, and manage its information. Without a functioning database, osTicket cannot properly operate as a ticket-management system</p>
 <br />
