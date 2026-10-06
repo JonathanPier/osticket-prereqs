@@ -61,6 +61,8 @@ The file VC_redist.x86.exe is an installer for the Microsoft Visual C++ Redistri
 The reason this matters when installing PHP is that PHP itself, or one of its components, may depend on particular Visual C++ runtime libraries. If the appropriate runtime is not available, Windows may be unable to start PHP or load one of its DLL files. Instead of PHP working normally, the administrator may receive an error indicating that a DLL is missing, that the application cannot start, or that a required runtime component could not be found.</p>
 <br />
 
+
+<h2>Install MySQL </h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
